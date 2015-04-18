@@ -29,7 +29,7 @@
 * 文件内反向查找C-r(支持正则表达式)
 * 文件内替换 M-x replace-string RET
 
-##杂湘##
+##杂项##
 * 设置默认工作目录 (setq default-directory "your directory")
 * 缓冲区切换 C-x b
 * 缓冲区关闭 C-x k
